@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">kotlin_autoCompleteTextview</string>
+    <string-array name="tinhthanh">
+        <item> Minh </item>
+        <item> Duy</item>
+        <item>Vũ </item>
+        <item>Bù Nho</item>
+        <item>Trấn Thành</item>
+        <item>Việt Nam</item>
+        <item>Hà Hội</item>
+        <item>Hà Giang</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+        <item>Vũ Minh Duy</item>
+
+
+
+
+
+    </string-array>
+</resources>
